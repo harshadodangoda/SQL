@@ -5,12 +5,16 @@
 <h4>CREATE - Use to create tables and databases</h4>
 
 <p>create a database</p>
-```create database cheatsheet;```js
 
+```
+create database cheatsheet;
+```
+</br>
 
 <p>create a table</p>
 
-```create table Employee
+```
+create table Employee
 (
     emp_ID int primary key,              -- Setting primary key(1st method)
     first_name varchar(40),
@@ -19,9 +23,22 @@
     age int,
     salary real
 );
-```js
+```
 
 <h4>CREATE Tables</h4>
+<code>
+    create table Employee
+(
+    emp_ID int primary key,              -- Setting primary key(1st method)
+    first_name varchar(40),
+    last_name varchar(40),
+    Designation int,
+    age int,
+    salary real
+);
+    </code>
+
+
 <h4>ALTER - change tables</h4>
 <h4>DROP - Use when delering tables and databases</h4>
 
