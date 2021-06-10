@@ -55,3 +55,17 @@ create table Employee
 </br>
 
 <h2>Data Definition Language (DDL)</h2>
+<h2>Strings</h2>
+concatenate
+TRIM
+RTRIM
+LTRIM
+
+
+UPPER
+LOWER
+UCASE
+
+
+Working with Dates
+
